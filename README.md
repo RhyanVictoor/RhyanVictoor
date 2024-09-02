@@ -1,6 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rhyan+Victor+;I'm+Front-end+Developer+Student)](https://git.io/typing-svg)
+
 ## Olá, Eu sou o Rhyan Victor 👋
 #### Hi, I´m Rhyan Victor 👋
 
+- 📍 Porto Velho, Brasil
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando Front-End
   
@@ -35,6 +38,7 @@
 
 <img align="center" alt="VS CODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;
 <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
+<img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
 
 </div>
 
@@ -46,7 +50,7 @@
 <div> 
   <a href="https://instagram.com/rhyan_victo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rhyanv.lemosbarroso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rhyan-victor-99299929b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="hwww.linkedin.com/in/rhyan-victoor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
