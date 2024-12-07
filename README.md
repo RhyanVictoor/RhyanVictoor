@@ -19,11 +19,11 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-## 
+## 💻 My Stats
 
-<div align="center" >
-<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RhyanVictoor&show_icons=true&layout=compact&theme=transparent&locale=pt-br" />
-</div>
+[![card](https://github-readme-stats.vercel.app/api?username=RhyanVictoor&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RhyanVictoor&layout=compact&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"> 
   
