@@ -19,7 +19,7 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-## 💻 My Stats
+## ⭐️ My Stats
 <div align=center> 
   <img src= "https://github-readme-stats.vercel.app/api?username=RhyanVictoor&show_icons=true&theme=transparent&locale=pt-br" />&nbsp; 
   
