@@ -1,22 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Rhyan+Victor+;I'm+Front-end+Developer+Student)](https://git.io/typing-svg)
 
-## Olá, Eu sou o Rhyan Victor 👋
-#### Hi, I´m Rhyan Victor 👋
+##
 
-- 📍 Porto Velho, Brasil
-- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando Front-End
-  
-&nbsp;
-&nbsp;
+```js
+import Desenvolvedor from "RhyanVictoor";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Rhyan Victor";
+  area = "Estudando Front-End";
+  trabalho = "Cursando Analise e Desenvolvimento de Sistemas";
+  local = "Porto Velho, Brasil";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["HTML,  CSS, JS"];
+  bibliotecas = [""];
+  frameworks = [""];
+}
+```
+
+## 
 
 <div align="center" >
 <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RhyanVictoor&show_icons=true&layout=compact&theme=transparent&locale=pt-br" />
 </div>
 
-&nbsp;
-
-<div style="display: inline_block">
+<div style="display: inline_block"> 
   
 ## 💻 My Skills
 
@@ -32,21 +41,18 @@
 <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
 <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">&nbsp;
 
-### ✏️ Design Tools:
+## ✏️ Design Tools:
 
 <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;
 <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">&nbsp;
 
-### 🪛 Workstation Tools:
+## 🪛 Workstation Tools:
 
 <img align="center" alt="VS CODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;
 <img align="center" alt="GIT HUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
 <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
 
 </div>
-
-&nbsp;
-&nbsp;
 
 ## 📱 Contacts:
 
@@ -58,10 +64,4 @@
 
 ##
 
-&nbsp;
-&nbsp;
-
 <p align="center">I'm confident that I can help you bring your project to life!</p>
-
-&nbsp;
-&nbsp;
