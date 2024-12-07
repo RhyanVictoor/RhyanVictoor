@@ -20,47 +20,48 @@ class Skills extends Desenvolvedor {
 ```
 
 ## 💻 My Stats
-
-[![card](https://github-readme-stats.vercel.app/api?username=RhyanVictoor&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RhyanVictoor&layout=compact&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"> 
+<div align=center> 
+  <img src= "https://github-readme-stats.vercel.app/api?username=RhyanVictoor&show_icons=true&theme=transparent&locale=pt-br" />&nbsp; 
   
-## 💻 My Skills
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RhyanVictoor&layout=compact&theme=transparent&locale=pt-br" />&nbsp;
+</div>
 
-### Programming and Development:
+<div style=display: inline_block"> 
+  
+  ## 💻 My Skills
+  
+  ### Programming and Development:
 
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp; 
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
-<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp; 
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  
+  ## 📚 Study / Interest
 
-## 📚 Study / Interest
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
+  <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">&nbsp;
 
-<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;
-<img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
-<img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">&nbsp;
+  ## ✏️ Design Tools:
 
-## ✏️ Design Tools:
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;
+  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">&nbsp;
 
-<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;
-<img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">&nbsp;
+  ## 🪛 Workstation Tools:
 
-## 🪛 Workstation Tools:
-
-<img align="center" alt="VS CODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;
-<img align="center" alt="GIT HUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
-<img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
+  <img align="center" alt="VS CODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;
+  <img align="center" alt="GIT HUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
+  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
 
 </div>
 
-## 📱 Contacts:
+  ## 📱 Contacts:
 
-<div> 
-  <a href="https://instagram.com/rhyan_victo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rhyanv.lemosbarroso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rhyanvictor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <div> 
+    <a href="https://instagram.com/rhyan_victo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:rhyanv.lemosbarroso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rhyanvictor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
 ##
 
