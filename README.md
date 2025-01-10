@@ -2,22 +2,11 @@
 
 ##
 
-```js
-import Desenvolvedor from "RhyanVictoor";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Rhyan Victor";
-  area = "Estudando Front-End";
-  trabalho = "Cursando Analise e Desenvolvimento de Sistemas";
-  local = "Porto Velho, Brasil";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML,  CSS, JS"];
-  bibliotecas = [""];
-  frameworks = [""];
-}
-```
+* 📍 Porto Velho, Brasil.
+  
+* 🔭 Técnico em Informática, Cursando Analise e Desenvolvimento de Sistemas.
+  
+* 🌱 Estudando Front-End.
 
 ## ⭐️ My Stats
 <div align=center> 
